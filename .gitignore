@@ -1,0 +1,4 @@
+*.jpg
+# Project exclude paths
+/.gradle/
+/build/
