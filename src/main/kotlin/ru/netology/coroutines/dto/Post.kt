@@ -1,7 +1,6 @@
 package ru.netology.coroutines.dto
 
 
-
 data class Post(
     val id: Long,
     val authorId: Long,
